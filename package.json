@@ -1,0 +1,11 @@
+{
+  "name": "jev-testeur",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test src/decide-segment.test.ts"
+  },
+  "dependencies": {
+    "@typesafe-ai/sdk": "^0.7.0"
+  }
+}
